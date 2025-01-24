@@ -1,4 +1,4 @@
-## Oi, E aí? como estamos? 👋
+## Oi, E aí? como estamos? 💻🐍
 
 <!--
 **daniel-al-santos/daniel-al-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
