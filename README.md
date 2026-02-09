@@ -1,39 +1,40 @@
-## Oi, E aí? como estamos? 💻🐍
+# Daniel Almeida Santos 💻🐍
 
-<!--
-**daniel-al-santos/daniel-al-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Me chamo Daniel e sou **Desenvolvedor Python** com foco em **automação, web scraping e integração de sistemas**.  
 
-Here are some ideas to get you started:
+Tenho experiência prática em ambientes corporativos, criando soluções que otimizam processos e reduzem erros operacionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-Me chamo Daniel, sou um desenvolvedor back-end com foco em raspagem de dados e automação
+## 🌱 Atualmente Aprendendo
+- Engenharia de Dados
+- Orquestração de processos com Airflow
 
-O que me motiva  é a capacidade de usar minhas habilidades para resolver problemas reais e fazer uma diferença positiva. 
+## 💬 Posso te ajudar com
+- Python: Selenium, BeautifulSoup,Requests, Pandas, psycopg2
+- Expressões regulares (Regex)
+- Criação de APIs REST com Flask
+- Automação de processos repetitivos
+- Banco de dados: PostgreSQL, SQL
+- Monitoramento: Grafana, Zabbix
+- Docker e AWS (EC2)
 
-Estou sempre procurando oportunidades para aprender, crescer e colaborar com outros profissionais que compartilham minha paixão por tecnologia!
+## 🤖 Habilidades Técnicas
+- **Automação & Scraping:** Criação de robôs para coleta e tratamento de dados
+- **APIs:** Desenvolvimento e manutenção usando Flask
+- **Infraestrutura:** Docker, AWS
+- **Controle de versão:** Git
+- **Soft Skills:** Proatividade, pensamento crítico, organização, trabalho em equipe
 
-- 🌱 Atualmente estou aprendendo **Engenharia de dados**
-- 💬 Me pergunte sobre Python,Selenium, Regex
-- 🤖 Amo criar robôs e integrar sistemas via API
+---
 
-#### Linguagens e ferramentas:
+## 🚀 Projetos
+[**Tired of Searching Tires**](https://github.com/daniel-al-santos/tired_of_searching_tires)  
+Um projeto de **automação de busca de pneus online**, usando Python e Selenium.
 
-- Python
-- Jupyter Notebook
-- JavaScript ( to um pouco enferrujado, mas vale a pena mencionar)  
-- Regex
-- MySQL / PostgreSQL
-- Postman
-- Git
-- Grafana
-- Selenium
-- Flask
+---
+
+## 📫 Contato
+- São Paulo, SP
+- Email: [daniel_al.santos@icloud.com](mailto:daniel_al.santos@icloud.com)
+- LinkedIn: [linkedin.com/in/daniel-almeida-b89946118](https://www.linkedin.com/in/daniel-almeida-b89946118/)
