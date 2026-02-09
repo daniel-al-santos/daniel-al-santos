@@ -32,6 +32,9 @@ Tenho experiência prática em ambientes corporativos, criando soluções que ot
 [**Tired of Searching Tires**](https://github.com/daniel-al-santos/tired_of_searching_tires)  
 Um projeto de **automação de busca de pneus online**, usando Python e Selenium.
 
+[**CRUD com Flask e SQLAlchemy**](https://github.com/daniel-al-santos/flask_crud)  
+API REST em **Flask** com **SQLAlchemy** para operações CRUD em **SQLite**.
+
 ---
 
 ## 📫 Contato
